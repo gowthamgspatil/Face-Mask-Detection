@@ -1,42 +1,28 @@
-# Real-Time-Face-Mask-Detection
-Real-Time Face Mask Detection OpenCV Python – During the COVID-19 pandemic, WHO mandated the use of masks to guard against the deadly virus. With regards to the mandate, we came up with a machine learning project called Real-Time Face Mask Detection was developed using Python OpenCV and Keras.
+# Face Mask Detection
 
-We used Python, Keras, and OpenCV to create a deep learning model for face mask identification in this project. The face mask detector model was created to determine whether or not a person is wearing a mask. We used Keras with network architecture to train the model.
+## 🧪 Project Overview
+**Real-Time Face Mask Detection** is a machine learning project developed using Python, OpenCV, and Keras.  
+The project aims to detect whether individuals are wearing face masks in real-time, leveraging deep learning techniques to enhance public health safety.
 
+## 🛠️ Technologies Used
+- **Programming Language:** Python
+- **Libraries:**
+  - OpenCV
+  - Keras
+  - TensorFlow
+  - NumPy
 
-# Importance of Real-Time Face Mask Detection Python
+## 📁 Project Structure
+The repository includes the following key files:
 
-When talking, breathing, or coughing, face coverings reduce the volume and travel distance of exhaled droplets. A face mask with no vents or holes will filter out virus-carrying particles from inhaled and exhaled air, lowering the risk of infection. 
+- `main.py`: The main script to run the face mask detection.
+- `train_mask_detector.py`: Script for training the mask detection model.
+- `mask_detector.model`: Pre-trained model file.
+- `requirements.txt`: Lists the necessary Python packages.
+- `Face_Detector/`: Directory containing the face detection module.
 
-# Major Functionalities
-
-Display Real-Time Camera – For this functionality the system will display a real-time camera.
-Detecting Faces – For this functionality the real-time camera detect faces.
-Detecting Wearing Mask or Not – For this functionality the system detects if the person wearing face mask or not.
-
-
-# Where We can Use It ? 
-- Schools
-- Malls
-- Restaurant
-- Public Places
-- Hospitals and ETC.
-
-# Install Guide 
-
-
-# Output 
-
-
-# Super Visor
-
-Shuyin Xia (夏书银), Ph.D
-
-School of Computer Science & Artificial Intelligence
-
-Ex-Director of Chongqing Artificial Intelligence Society, Chongqing. China
-
-Chongqing University of Posts and Telecommunication, China
-
-
-
+## 🚀 How to Run
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/gowthamgspatil/Face-Mask-Detection.git
+   cd Face-Mask-Detection
