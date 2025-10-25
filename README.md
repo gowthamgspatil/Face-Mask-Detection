@@ -26,3 +26,10 @@ The repository includes the following key files:
    ```bash
    git clone https://github.com/gowthamgspatil/Face-Mask-Detection.git
    cd Face-Mask-Detection
+
+
+##  Contact
+
+
+* **Email**: [gowthamgshivamurthy@gmail.com](mailto:gowthamgshivamurthy@gmail.com)
+* **LinkedIn**: [linkedin.com/in/gowthamgshivamurthy](https://www.linkedin.com/in/gowthamgshivamurthy)
